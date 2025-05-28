@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helo, there 𐙚⋆°｡⋆♡
 
 <!--
 **nafisazlmaulida/nafisazlmaulida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![ok](media/When%20will%20my%20life%20begin%20(1).gif)
